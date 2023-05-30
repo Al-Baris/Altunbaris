@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Altunbaris
 - 👀 I’m interested in programming 
-- 🌱 I’m currently starting to get into it
+- 🌱 I’m currently attending a programming school
+- current status: noob
 
 <!---
 Altunbaris/Altunbaris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
