@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Altunbaris
+- 👋 Hi, I’m @baris
 - 👀 I’m interested in programming 
 - 🌱 I’m currently attending a programming school
 - current status: noob
